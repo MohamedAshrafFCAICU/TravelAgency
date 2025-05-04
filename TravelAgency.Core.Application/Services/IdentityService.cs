@@ -14,6 +14,7 @@ using TravelAgency.Core.Domain.Repository_Contracts;
 
 namespace TravelAgency.Core.Application.Services
 {
+    //
     public class IdentityService : IIdentityService
     {
         private IIdentityRepository _identityRepository;
